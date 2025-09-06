@@ -103,3 +103,24 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/sarthak12005?style=flat-square&labelColor=343b41"/> 
   <img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/sarthak12005?style=flat-square&labelColor=343b41"/>
 </p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak12005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthak12005&theme=tokyonight" alt="GitHub Streaks" />
+</p>
+
+---
+
+## 📈 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak12005&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
