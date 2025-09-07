@@ -92,20 +92,6 @@
 
 ---
 
-<p align="center">
-  This <i>README</i> file is generated <b>every 3 hours</b>!  
-  <br/>Last refresh: <!-- TIME -->  
-  <br/><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/sarthak12005/sarthak12005/workflows/README%20build/badge.svg" /> 
-  <img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/sarthak12005?style=flat-square&labelColor=343b41"/> 
-  <img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/sarthak12005?style=flat-square&labelColor=343b41"/>
-</p>
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthak12005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
