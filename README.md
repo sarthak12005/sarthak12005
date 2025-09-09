@@ -68,6 +68,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/sarthak12005/streamify"><b>Streamify</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
