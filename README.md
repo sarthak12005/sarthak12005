@@ -58,6 +58,22 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="UX Pilot" src="https://img.shields.io/badge/-UX_Pilot-FF6F61?style=flat-square&logo=uxpilot&logoColor=white" />
+
+  <img alt="Turf.js" src="https://img.shields.io/badge/-Turf.js-3E8DF3?style=flat-square&logo=turfdotjs&logoColor=white" />
+<img alt="Leaflet.js" src="https://img.shields.io/badge/-Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img alt="Leaflet Draw" src="https://img.shields.io/badge/-Leaflet_Draw-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img alt="GeoJSON" src="https://img.shields.io/badge/-GeoJSON-FFCC00?style=flat-square&logo=geojson&logoColor=white" />
+<img alt="React Select" src="https://img.shields.io/badge/-React_Select-00D8FF?style=flat-square&logo=react-select&logoColor=white" />
+<img alt="React Context" src="https://img.shields.io/badge/-React_Context-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img alt="Framer Motion" src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img alt="Lucide React" src="https://img.shields.io/badge/-Lucide_React-000000?style=flat-square&logo=lucide&logoColor=white" />
+<img alt="React Icons" src="https://img.shields.io/badge/-React_Icons-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img alt="Rapid API" src="https://img.shields.io/badge/-Rapid_API-0082FC?style=flat-square&logo=rapidapi&logoColor=white" />
+<img alt="Judge0 API" src="https://img.shields.io/badge/-Judge0_API-000000?style=flat-square" />
+<img alt="Stream" src="https://img.shields.io/badge/-Stream-005FFF?style=flat-square&logo=stream&logoColor=white" />
+<img alt="Stream Chat" src="https://img.shields.io/badge/-Stream_Chat-005FFF?style=flat-square&logo=stream&logoColor=white" />
+
+  
 </p>
 
 
