@@ -92,7 +92,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/sarthak12005/PlASHOE"><b>Plashoe – Recycle Shoes Shop</b></a></td>
+      <td><a href="https://github.com/sarthak12005/PlASHOE"><b>Plashoe</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
