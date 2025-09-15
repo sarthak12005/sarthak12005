@@ -88,7 +88,7 @@ sarthak.sayHi();
     <tr>
       <td>
         <a href="https://github.com/sarthak12005/PlASHOE">
-          <img src="https://img.shields.io/badge/PlASHOE-E-commerce-ff6b6b?style=for-the-badge&logo=shopify&logoColor=white" alt="PlASHOE"/>
+         <img src="https://img.shields.io/badge/PlASHOE-E-commerce-ff6b6b?style=for-the-badge&logo=shopify&logoColor=white" alt="PlASHOE"/>
         </a>
       </td>
       <td>Complete e-commerce platform for shoes</td>
