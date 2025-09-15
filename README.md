@@ -1,151 +1,220 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Nice to see you
-</h1>
+# <div align="center">👋 Hello World, I'm Sarthak Joshi!</div>
 
-<p>
-  Hello there 👋 I am <b>Sarthak Joshi</b>, a <b>Jr. Full Stack Developer</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> 
-  <b>Jalna, India</b>.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
+</div>
 
----
-
-<h3>🛠️ Things I Code With</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="AWS S3" src="https://img.shields.io/badge/-AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-  
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-  <!-- New Skills Added Below -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Render" src="https://img.shields.io/badge/-Render-FF5733?style=flat-square&logo=render&logoColor=white" />
-  <img alt="DaisyUI" src="https://img.shields.io/badge/-DaisyUI-4ADE80?style=flat-square&logo=daisyui&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="UX Pilot" src="https://img.shields.io/badge/-UX_Pilot-FF6F61?style=flat-square&logo=uxpilot&logoColor=white" />
-
-  <img alt="Turf.js" src="https://img.shields.io/badge/-Turf.js-3E8DF3?style=flat-square&logo=turfdotjs&logoColor=white" />
-<img alt="Leaflet.js" src="https://img.shields.io/badge/-Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
-<img alt="Leaflet Draw" src="https://img.shields.io/badge/-Leaflet_Draw-199900?style=flat-square&logo=leaflet&logoColor=white" />
-<img alt="GeoJSON" src="https://img.shields.io/badge/-GeoJSON-FFCC00?style=flat-square&logo=geojson&logoColor=white" />
-<img alt="React Select" src="https://img.shields.io/badge/-React_Select-00D8FF?style=flat-square&logo=react-select&logoColor=white" />
-<img alt="React Context" src="https://img.shields.io/badge/-React_Context-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img alt="Framer Motion" src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-<img alt="Lucide React" src="https://img.shields.io/badge/-Lucide_React-000000?style=flat-square&logo=lucide&logoColor=white" />
-<img alt="React Icons" src="https://img.shields.io/badge/-React_Icons-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img alt="Rapid API" src="https://img.shields.io/badge/-Rapid_API-0082FC?style=flat-square&logo=rapidapi&logoColor=white" />
-<img alt="Judge0 API" src="https://img.shields.io/badge/-Judge0_API-000000?style=flat-square" />
-<img alt="Stream" src="https://img.shields.io/badge/-Stream-005FFF?style=flat-square&logo=stream&logoColor=white" />
-<img alt="Stream Chat" src="https://img.shields.io/badge/-Stream_Chat-005FFF?style=flat-square&logo=stream&logoColor=white" />
-
-  
-</p>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24856b0.gif" width="500" alt="coding gif">
+</div>
 
 ---
 
-<h3>📂 Featured Projects</h3>
-<table>
-  <thead align="center">
-    <tr border="none">
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const sarthak = {
+    name: "Sarthak Joshi",
+    location: "🇮🇳 Jalna, India",
+    role: "Jr. Full Stack Developer",
+    passion: "Building amazing web experiences",
+    currentFocus: "MERN Stack & Modern Web Technologies",
+    lifePhilosophy: "Code is poetry written in logic",
+    
+    sayHi() {
+        console.log("Thanks for dropping by! Let's build something amazing together! 🚀");
+    }
+};
+
+sarthak.sayHi();
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,figma" alt="Frontend Skills" />
+</p>
+
+### Backend Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,cpp,c" alt="Backend Skills" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,netlify,postman,docker" alt="Tools Skills" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>🎯 Project</th>
+      <th>📝 Description</th>
+      <th>🛠️ Tech Stack</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>🔗 Demo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/sarthak12005/PlASHOE"><b>Plashoe</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sarthak12005/PlASHOE?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/sarthak12005/PlASHOE">
+          <img src="https://img.shields.io/badge/PlASHOE-E-commerce-ff6b6b?style=for-the-badge&logo=shopify&logoColor=white" alt="PlASHOE"/>
+        </a>
+      </td>
+      <td>Complete e-commerce platform for shoes</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      </td>
+      <td><img src="https://img.shields.io/github/stars/sarthak12005/PlASHOE?style=social"/></td>
+      <td><img src="https://img.shields.io/github/forks/sarthak12005/PlASHOE?style=social"/></td>
+      <td><a href="https://github.com/sarthak12005/PlASHOE">🔗 View</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sarthak12005/codecollab"><b>CodeCollab</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sarthak12005/codecollab?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/sarthak12005/codecollab">
+          <img src="https://img.shields.io/badge/CodeCollab-Collaboration-4ecdc4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="CodeCollab"/>
+        </a>
+      </td>
+      <td>Real-time code collaboration platform</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+      </td>
+      <td><img src="https://img.shields.io/github/stars/sarthak12005/codecollab?style=social"/></td>
+      <td><img src="https://img.shields.io/github/forks/sarthak12005/codecollab?style=social"/></td>
+      <td><a href="https://github.com/sarthak12005/codecollab">🔗 View</a></td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/sarthak12005/streamify"><b>Streamify</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sarthak12005/streamify?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+      <td>
+        <a href="https://github.com/sarthak12005/streamify">
+          <img src="https://img.shields.io/badge/Streamify-Video Chat-ff7675?style=for-the-badge&logo=youtube&logoColor=white" alt="Streamify"/>
+        </a>
+      </td>
+      <td>Video streaming & chat application</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Stream-005FFF?style=flat&logo=stream&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+      </td>
+      <td><img src="https://img.shields.io/github/stars/sarthak12005/streamify?style=social"/></td>
+      <td><img src="https://img.shields.io/github/forks/sarthak12005/streamify?style=social"/></td>
+      <td><a href="https://github.com/sarthak12005/streamify">🔗 View</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-<h3>🌐 Where to Find Me</h3>
-<p>
-  <a href="https://github.com/sarthak12005" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarthakjoshi1535" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sarthakjoshi12005@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://saarthak.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sarthak12005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak12005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthak12005&theme=tokyonight&hide_border=true" alt="GitHub Streaks" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak12005&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak12005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak12005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 🔥 GitHub Streaks  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthak12005&theme=tokyonight" alt="GitHub Streaks" />
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  
+  <p>
+    <a href="https://github.com/sarthak12005">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sarthakjoshi1535">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sarthakjoshi12005@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://saarthak.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=sarthak12005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-## 📈 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak12005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 💭 Current Status
+
+```yaml
+🔭 Currently working on: Advanced MERN Stack Projects
+🌱 Learning: Next.js, TypeScript, and Cloud Technologies
+👯 Looking to collaborate on: Open Source Projects
+💬 Ask me about: React, Node.js, MongoDB, JavaScript
+⚡ Fun fact: I debug with console.log more than I'd like to admit! 😄
+```
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
