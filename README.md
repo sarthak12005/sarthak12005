@@ -158,7 +158,7 @@ sarthak.sayHi();
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthak12005&theme=tokyonight&hide_border=true" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=sarthak12005&theme=tokyonight&hide_border=true" alt="GitHub Streaks" />
 </div>
 
 <div align="center">
