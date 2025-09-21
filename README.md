@@ -207,7 +207,6 @@ sarthak.sayHi();
 🌱 Learning: Next.js, TypeScript, and Cloud Technologies
 👯 Looking to collaborate on: Open Source Projects
 💬 Ask me about: React, Node.js, MongoDB, JavaScript
-⚡ Fun fact: I debug with console.log more than I'd like to admit! 😄
 ```
 
 ---
