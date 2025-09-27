@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C0C0C0&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24856b0.gif" width="500" alt="coding gif">
-</div>
+
 
 ---
 
@@ -34,11 +32,6 @@ sarthak.sayHi();
 
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -61,17 +54,13 @@ sarthak.sayHi();
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 
 <table align="center">
   <thead>
@@ -170,7 +159,8 @@ sarthak.sayHi();
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak12005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sarthak12005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/> 
+</p>
 </div>
 
 ---
@@ -178,8 +168,6 @@ sarthak.sayHi();
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  
   <p>
     <a href="https://github.com/sarthak12005">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -208,15 +196,3 @@ sarthak.sayHi();
 👯 Looking to collaborate on: Open Source Projects
 💬 Ask me about: React, Node.js, MongoDB, JavaScript
 ```
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</div>
