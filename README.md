@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm Sarthak Joshi!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C0C0C0&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
