@@ -15,25 +15,24 @@
 ```javascript
 const sarthak = {
     name: "Sarthak Joshi",
-    location: "🇮🇳 Jalna, India",
+    location: "Jalna, India",
     role: "Jr. Full Stack Developer",
     passion: "Building amazing web experiences",
     currentFocus: "MERN Stack & Modern Web Technologies",
     lifePhilosophy: "Code is poetry written in logic",
     
     sayHi() {
-        console.log("Thanks for dropping by!🚀");
+        console.log("Thanks for dropping by!");
     }
 };
 
 sarthak.sayHi();
 
 
-
 ```
 
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
