@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 
-
-
 ```javascript
 const sarthak = {
     name: "Sarthak Joshi",
