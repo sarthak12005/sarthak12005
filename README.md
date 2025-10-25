@@ -188,8 +188,8 @@ sarthak.sayHi();
 ## 💭 Current Status
 
 ```yaml
-🔭 Currently working on: Advanced MERN Stack Projects
-🌱 Learning: Next.js, TypeScript, and Cloud Technologies
-👯 Looking to collaborate on: Open Source Projects
-💬 Ask me about: React, Node.js, MongoDB, JavaScript
+Currently working on: Advanced MERN Stack Projects
+Learning: Next.js, TypeScript, and Cloud Technologies
+Looking to collaborate on: Open Source Projects
+Ask me about: React, Node.js, MongoDB, JavaScript
 ```
