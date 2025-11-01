@@ -29,7 +29,7 @@ I'm always excited to collaborate on interesting projects or discuss new ideas. 
 
 ---
 *"First, solve the problem. Then, write the code." – John Johnson*
-
+---
 
 ```
 
