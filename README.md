@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+#👋 About Me
 
 Hey there! I'm **Sarthak Joshi**, a passionate Junior Full Stack Developer based in Jalna, India. I love crafting elegant solutions to complex problems and bringing ideas to life through code.
 
@@ -27,9 +27,6 @@ I believe that **code is poetry written in logic** – where functionality meets
 ### 📫 Let's Connect
 I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out!
 
----
-*"First, solve the problem. Then, write the code." – John Johnson*
----
 
 ```
 
