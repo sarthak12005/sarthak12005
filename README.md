@@ -26,7 +26,7 @@ I believe that **code is poetry written in logic** – where functionality meets
 
 ### 📫 Let's Connect
 I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out!
-
+---
 
 ```
 
