@@ -20,7 +20,7 @@ const sarthak = {
     lifePhilosophy: "Code is poetry written in logic",
     
     sayHi() {
-        console.log("Thanks for dropping by!");
+        console.log("Thanks for dropping by !");
     }
 };
 
