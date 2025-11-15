@@ -10,24 +10,21 @@
 
 ## About Me
 
-```javascript
-const sarthak = {
-    name: "Sarthak Joshi",
-    location: "Jalna, India",
-    role: "Jr. Full Stack Developer",
-    passion: "Building amazing web experiences",
-    currentFocus: "MERN Stack & Modern Web Technologies",
-    lifePhilosophy: "Code is poetry written in logic",
-    
-    sayHi() {
-        console.log("Thanks for dropping by !");
-    }
-};
+Hi, I'm **Sarthak Joshi** — a Full Stack Developer who loves creating powerful, efficient, and visually polished digital experiences.  
+I work across the entire stack, from building responsive UIs to architecting secure and scalable backend systems.
 
-sarthak.sayHi();
+What drives me is continuous learning, clean engineering practices, and building solutions that actually make an impact.
 
+### What I’m currently focusing on:
+- MERN Stack & Next.js  
+- API Architecture & Microservices  
+- Cloud Deployment (AWS, Render, Railway)  
+- WebSockets & Real-time Features  
+- DevOps & CI/CD Pipelines  
 
-```
+I’m always excited to collaborate, explore new technologies, and grow as a developer.
+
+---
 
 
 ## Tech Arsenal
