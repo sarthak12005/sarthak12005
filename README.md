@@ -41,7 +41,8 @@ sarthak.sayHi();
 
 ### Backend Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,cpp,c" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,python,java,cpp,c" alt="Backend Skills" />
+
 </p>
 
 ### Tools & Platforms
