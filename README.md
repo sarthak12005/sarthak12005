@@ -41,32 +41,32 @@ sarthak.sayHi();
 
 ### 🧠 Backend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cpp,c&perline=6" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cpp,c" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=6" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database Skills" />
 </p>
 
 ### ☁️ Cloud & Hosting Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,firebase&perline=6" alt="Cloud Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,firebase" alt="Cloud Skills" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,gitlab&perline=6" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,gitlab" alt="DevOps Skills" />
 </p>
 
 ### 🔁 CI/CD & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab&perline=6" alt="CI/CD Skills" />
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab" alt="CI/CD Skills" />
 </p>
 
 ### 🧰 Tools & Productivity
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6" alt="Tools Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools Skills" />
 </p>
 
 </div>
