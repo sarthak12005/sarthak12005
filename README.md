@@ -1,4 +1,4 @@
-# <div align="center">Hello, I'm Sarthak Joshi 👋🏻</div>
+# <div align="center">Hello, I'm Sarthak Joshi!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C0C0C0&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
@@ -143,10 +143,6 @@ I’m always excited to collaborate, explore new technologies, and grow as a dev
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
 
 <div align="center">
   <table>
