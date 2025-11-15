@@ -47,7 +47,8 @@ sarthak.sayHi();
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,netlify,postman,docker" alt="Tools Skills" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,netlify,postman,docker,firebase,kubernetes,nginx" alt="Tools Skills" />
+
 </p>
 
 </div>
