@@ -36,7 +36,7 @@ sarthak.sayHi();
 
 ### 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,figma&perline=6" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,figma" alt="Frontend Skills" />
 </p>
 
 ### 🧠 Backend Technologies
