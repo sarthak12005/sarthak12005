@@ -38,7 +38,7 @@ I’m always excited to collaborate, explore new technologies, and grow as a dev
 
 ### 🧠 Backend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,python,java,cpp,c" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,python,java" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases
