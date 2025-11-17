@@ -63,7 +63,7 @@ I’m always excited to collaborate, explore new technologies, and grow as a dev
 
 ### 🧰 Tools & Productivity
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira" alt="Tools Skills" />
 </p>
 
 </div>
