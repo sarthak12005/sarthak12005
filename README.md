@@ -26,14 +26,13 @@ I’m always excited to collaborate, explore new technologies, and grow as a dev
 
 ---
 
-
 ## Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,react-native,figma" alt="Frontend Skills" />
 </p>
 
 ### 🧠 Backend Technologies
