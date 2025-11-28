@@ -1,4 +1,4 @@
-# <div align="center">Hello, I'm Sarthak Joshi!</div>
+# <div align="center">Hello,I'm Sarthak Joshi!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Jr.+Full+Stack+Developer;Passionate+Code+Craftsman;Problem+Solving+Enthusiast" alt="Typing SVG" />
