@@ -57,7 +57,7 @@ I’m always excited to collaborate, explore new technologies, and grow as a dev
 
 ### 🔁 CI/CD & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab" alt="CI/CD Skills" />
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" alt="CI/CD Skills" />
 </p>
 
 ### 🧰 Tools & Productivity
