@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi, I'm **Sarthak Joshi** — a Full Stack Developer who loves creating powerful, efficient, and visually polished digital experiences.  
+Hi, I'm **Sarthak Joshi** — a Full Stack Developer who loves creating powerful, efficient,visually polished digital experiences.  
 I work across the entire stack, from building responsive UIs to architecting secure and scalable backend systems
 
 What drives me is continuous learning, clean engineering practices, and building solutions that actually make an impact.
