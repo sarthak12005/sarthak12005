@@ -22,7 +22,6 @@ I work across the entire stack, from building responsive UIs to architecting sec
 - DevOps & CI/CD Pipelines  
 
 I’m always excited to collaborate, explore new technologies, and grow as a developer.
-
 ---
 
 ## Tech Arsenal
